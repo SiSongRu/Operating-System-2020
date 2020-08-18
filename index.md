@@ -11,13 +11,13 @@
 邮箱：chizhang@ustc.edu.cn
 
 #### 助教
-姓名：李松蔚
+姓名：李松蔚 (主要负责实验部分)
 办公室：西区电四楼 415
-邮箱：
+邮箱：bgplsw＠mail.ustc.edu.cn
 
 姓名：王庆涛
 办公室：西区科技西楼 913
-邮箱：
+邮箱：wqt@mail.ustc.edu.cn
 
 姓名：茹思淞
 办公室：西区科技西楼 915
@@ -65,7 +65,7 @@
 
 * 各位同学可以通过百度网盘下载工具书，[下载链接]( https://pan.baidu.com/s/1WuxQQIzvXo_aaq_tMGuRPA "Title") 分享码：strv
 
-如果百度网盘的下载速度比较慢，也可以使用学校提供的睿客云 [下载链接](https://rec.ustc.edu.cn/share/56173770-e14b-11ea-ac90-b306c77ad1e5) 密码：OS2020
+* 如果百度网盘的下载速度比较慢，也可以使用学校提供的睿客云 [下载链接](https://rec.ustc.edu.cn/share/8debc570-e14b-11ea-9feb-37ab00adf0f8) 密码：OS2020
 
 
 
