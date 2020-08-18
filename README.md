@@ -1,4 +1,4 @@
-#      欢迎大家来到2020年张驰老师的操作系统课程主页(￣▽￣)／
+#      欢迎大家来到2020年操作系统课程主页(￣▽￣)／
 ###    我们会把课程需要的资料全部放到这个网页里，大家可以根据自己的需求下载！
 
 ### 课程介绍
@@ -11,32 +11,40 @@
 邮箱：chizhang@ustc.edu.cn
 
 #### 助教
-姓名：李松蔚
+姓名：李松蔚 (主要负责实验部分)
+
 办公室：西区电四楼 415
-邮箱：
+
+邮箱：bgplsw＠mail.ustc.edu.cn
 
 姓名：王庆涛
+
 办公室：西区科技西楼 913
-邮箱：
+
+邮箱：wqt@mail.ustc.edu.cn
 
 姓名：茹思淞
+
 办公室：西区科技西楼 915
+
 邮箱：rusisong@mail.ustc.edu.cn
 
 
 ### 作业答案(≧ω≦)/
-* 作业答案1下载[链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Homework/Homework-1-Part%25201.rar "Title")
-* 作业答案2下载[链接](https://github.com/SiSongRu/Operating-System-2020//blob/master/Homework/Homwork-1.rar "Title")
-* 作业答案3下载[链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Homework/Honework-2.rar "Title")
-* 作业答案4下载[链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Homework/homework%20summary.zip "Title")
-
-
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
-* 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj
-* 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27
-* [某14级大佬的实验报告示例（瑟瑟发抖)](https://github.com/ljw1006/Operating-System-2019/blob/master/Experiments/Example-lab1-report.7z "Title")
+* 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj 
+
+* 如果百度云下载速度较慢可以使用学校睿客云网盘 [虚拟机](https://rec.ustc.edu.cn/share/a81466b0-e14a-11ea-9165-754326c34647) 密码：OS2020
+
+* 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27 
+
+* 如果百度云下载速度较慢可以使用学校睿客云网盘 [实验参考书](https://rec.ustc.edu.cn/share/d070e6c0-e14a-11ea-99de-5b44d5c03fbc) 密码：OS2020
+
+
+* 某14级大佬的实验报告示例（瑟瑟发抖)[链接](https://github.com/github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/Example-lab1-report.7z "Title")
+
 * 2019年9月17日实验内容讲解PPT[链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/实验.pptx "Title")
 
 * -------------我是分界线(*╹▽╹*)---------------------------------------------------------
@@ -69,7 +77,7 @@
 
 * 各位同学可以通过百度网盘下载工具书，[下载链接]( https://pan.baidu.com/s/1WuxQQIzvXo_aaq_tMGuRPA "Title") 分享码：strv
 
-
+* 如果百度网盘的下载速度比较慢，也可以使用学校提供的睿客云 [下载链接](https://rec.ustc.edu.cn/share/8debc570-e14b-11ea-9feb-37ab00adf0f8) 密码：OS2020
 
 
 
@@ -89,3 +97,5 @@
 * [11-Virtual Memory](https://github.com/SiSongRu/Operating-System-2020/blob/master/Lecture%20Slides/11-Virtual%20Memory.7z "Title")
 * [12-IO](https://github.com/SiSongRu/Operating-System-2020/blob/master/Lecture%20Slides/12-IO.7z "Title")
 * [13-File](https://github.com/SiSongRu/Operating-System-2020/blob/master/Lecture%20Slides/13-File.7z "Title")
+
+
