@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+## 欢迎大家选择操作系统课程
 
-You can use the [editor on GitHub](https://github.com/SiSongRu/Operating-System-2020.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 课程PPT(持续更新)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[01-Overview-2018.9.4.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/01-Overview-2018.9.4.rar)
 
-### Markdown
+[02-OS Intro-2018.9.7.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/02-OS%20Intro-2018.9.7.rar)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[03-HardwareSupport-2018.9.18.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/03-HardwareSupport-2018.9.18.rar)
 
-```markdown
-Syntax highlighted code block
+[04-Process Concept-2018.9.25.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/04-Process%20Concept-2018.9.25.rar)
 
-# Header 1
-## Header 2
-### Header 3
+[05-Thread & IPC-2018.9.28.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/05-Thread%20%26%20IPC-2018.9.28.rar)
 
-- Bulleted
-- List
+[06-Process Schedule-2018.9.30.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/06-Process%20Schedule-2018.9.30.rar)
 
-1. Numbered
-2. List
+[07-Mutual%20Exclusion-2018.10.12.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/07-Mutual%20Exclusion-2018.10.12.rar)
 
-**Bold** and _Italic_ and `Code` text
+[08-Synchronization-2018.10.22.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/08-Synchronization-2018.10.22.rar)
 
-[Link](url) and ![Image](src)
-```
+[09-Deadlock-2018.11.5.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/09-Deadlock-2018.11.5.rar)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[10-Real Memory-2018.11.12](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/10-Real%20Memory-2018.11.12.rar)
 
-### Jekyll Themes
+[11-Virtual%20Memory-2018.11.23.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/11-Virtual%20Memory-2018.11.23.zip)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SiSongRu/Operating-System-2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[12-IO-2018.12.7.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/12-IO-2018.12.7.zip)
 
-### Support or Contact
+[13-File-2018.12.19.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/13-File-2018.12.19.zip)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 课程参考资料
+
+[参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
+
+### 课程视频
+
+[Hardware and Operating System Basic](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic)
+
+### 实验相关材料
+
+#### 实验指导书
+
+[实验指导书](https://github.com/yankaixie13/Operating-System-2018/tree/master/Labs/The-book-of-OS-experiment)
+
+#### 实验指导视频
+
+[实验视频](https://github.com/yankaixie13/Operating-System-2018/tree/master/Labs/Video)
+
+#### 实验工具
+
+[实验工具](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/Experimental-tool/Experimental-virtual-machine.md)
+
+#### 往届优秀实验报告例子
+
+[往届优秀实验报告例子](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/Example-lab1-report.pdf)
+
+#### 10.19更新部分
+
+[10.19更新部分](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/10.19%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99.zip)
+
+### Homework
+
+[Homework-1-Part%201.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homework-1-Part%25201.rar)
+
+[Homwork-1.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homwork-1.rar)
+
+[Honework-2.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Honework-2.rar)
+
+[homework summary.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/homework%20summary.zip)
+
+[Part4-File](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Part4-File-%E4%B9%A0%E9%A2%98%E8%AF%BE.zip)
+
+
+
+
