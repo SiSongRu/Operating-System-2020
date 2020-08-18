@@ -1,75 +1,87 @@
-## 欢迎大家选择操作系统课程
-
-### 课程PPT(持续更新)
-
-[01-Overview-2018.9.4.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/01-Overview-2018.9.4.rar)
-
-[02-OS Intro-2018.9.7.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/02-OS%20Intro-2018.9.7.rar)
-
-[03-HardwareSupport-2018.9.18.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/03-HardwareSupport-2018.9.18.rar)
-
-[04-Process Concept-2018.9.25.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/04-Process%20Concept-2018.9.25.rar)
-
-[05-Thread & IPC-2018.9.28.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/05-Thread%20%26%20IPC-2018.9.28.rar)
-
-[06-Process Schedule-2018.9.30.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/06-Process%20Schedule-2018.9.30.rar)
-
-[07-Mutual%20Exclusion-2018.10.12.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/07-Mutual%20Exclusion-2018.10.12.rar)
-
-[08-Synchronization-2018.10.22.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/08-Synchronization-2018.10.22.rar)
-
-[09-Deadlock-2018.11.5.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/09-Deadlock-2018.11.5.rar)
-
-[10-Real Memory-2018.11.12](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/10-Real%20Memory-2018.11.12.rar)
-
-[11-Virtual%20Memory-2018.11.23.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/11-Virtual%20Memory-2018.11.23.zip)
-
-[12-IO-2018.12.7.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/12-IO-2018.12.7.zip)
-
-[13-File-2018.12.19.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Lecture%20Slides/13-File-2018.12.19.zip)
-
-### 课程参考资料
-
-[参考书籍](https://github.com/yankaixie13/Operating-System-2018/tree/master/Textbooks)
-
-### 课程视频
-
-[Hardware and Operating System Basic](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic)
-
-### 实验相关材料
-
-#### 实验指导书
-
-[实验指导书](https://github.com/yankaixie13/Operating-System-2018/tree/master/Labs/The-book-of-OS-experiment)
-
-#### 实验指导视频
-
-[实验视频](https://github.com/yankaixie13/Operating-System-2018/tree/master/Labs/Video)
-
-#### 实验工具
-
-[实验工具](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/Experimental-tool/Experimental-virtual-machine.md)
-
-#### 往届优秀实验报告例子
-
-[往届优秀实验报告例子](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/Example-lab1-report.pdf)
-
-#### 10.19更新部分
-
-[10.19更新部分](https://github.com/yankaixie13/Operating-System-2018/blob/master/Labs/10.19%E7%9B%B8%E5%85%B3%E6%9D%90%E6%96%99.zip)
-
-### Homework
-
-[Homework-1-Part%201.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homework-1-Part%25201.rar)
-
-[Homwork-1.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Homwork-1.rar)
-
-[Honework-2.rar](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Honework-2.rar)
-
-[homework summary.zip](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/homework%20summary.zip)
-
-[Part4-File](https://github.com/yankaixie13/Operating-System-2018/blob/master/Homework/Part4-File-%E4%B9%A0%E9%A2%98%E8%AF%BE.zip)
+#      欢迎大家来到2019年信息安全的操作系统课程主页(￣▽￣)／
+###    我们会把课程需要的资料全部放到这个网页里，大家可以根据自己的需求下载！
 
 
+
+### 作业答案(≧ω≦)/
+* 作业答案1下载[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Homework/Homework-1-Part%25201.rar "Title")
+* 作业答案2下载[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Homework/Homwork-1.rar "Title")
+* 作业答案3下载[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Homework/Honework-2.rar "Title")
+* 作业答案4下载[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Homework/homework%20summary.zip "Title")
+
+
+
+### 实验内容Ｏ(≧▽≦)Ｏ
+
+* 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj
+* 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27
+* [某14级大佬的实验报告示例（瑟瑟发抖)](https://github.com/ljw1006/Operating-System-2019/blob/master/Experiments/Example-lab1-report.7z "Title")
+* 2019年9月17日实验内容讲解PPT[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Experiments/实验.pptx "Title")
+
+* -------------我是分界线(*╹▽╹*)---------------------------------------------------------
+
+* 第一次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=1 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=2 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=3 "Title")
+* 第二次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=4 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=5 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=6 "Title") [第四部分](https://www.bilibili.com/video/av32411771/?p=7 "Title") [第五部分](https://www.bilibili.com/video/av32411771/?p=8 "Title") [第六部分](https://www.bilibili.com/video/av32411771/?p=9 "Title")
+* 第三次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=10 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=11 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=12 "Title")
+* 第四次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=13 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=14 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=15 "Title")
+
+
+
+
+### 操作系统经典课程视频(｡･ω･｡)
+
+* [视频1下载链接](https://github.com/yankaixie13/Operating-System-2018/tree/master/Videos/Hardware%20and%20Operating%20System%20Basic/ "Title") 
+* [视频2下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频3下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频4下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频5下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频6下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频7下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频8下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频9下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频10下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+* [视频11下载链接](https://github.com/yankaixie13/Operating-System-2018/blob/master/Videos/Hardware%20and%20Operating%20System%20Basic/Hardware_and_Operating_System_basics_-_10_of_11.mp4 "Title")
+
+* -----------------------我是分界线(*╹▽╹*)--------------------------------------------------
+
+* [B站学习链接-视频1](https://www.bilibili.com/video/av65832092/ "Title")
+* [B站学习链接-视频2](https://www.bilibili.com/video/av65832092/?p=2 "Title")
+* [B站学习链接-视频3](https://www.bilibili.com/video/av65832092/?p=3 "Title")
+* [B站学习链接-视频4](https://www.bilibili.com/video/av65832092/?p=4 "Title")
+* [B站学习链接-视频5](https://www.bilibili.com/video/av65832092/?p=5 "Title")
+* [B站学习链接-视频6](https://www.bilibili.com/video/av65832092/?p=6 "Title")
+* [B站学习链接-视频7](https://www.bilibili.com/video/av65832092/?p=7 "Title")
+* [B站学习链接-视频8](https://www.bilibili.com/video/av65832092/?p=8 "Title")
+* [B站学习链接-视频9](https://www.bilibili.com/video/av65832092/?p=9 "Title")
+* [B站学习链接-视频10](https://www.bilibili.com/video/av65832092/?p=10 "Title")
+* [B站学习链接-视频11](https://www.bilibili.com/video/av65832092/?p=11 "Title")
+
+
+
+
+### 课程参考书ಠᴗಠ 
+
+* 各位同学可以通过百度网盘下载工具书，[下载链接]( https://pan.baidu.com/s/1WuxQQIzvXo_aaq_tMGuRPA "Title") 分享码：strv
+
+
+
+
+
+
+### 课程幻灯片(*´・ｖ・)
+
+* [01-Overview](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/01-Overview.7z "Title")
+* [02-OS Intro](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/02-OS%20Intro.7z "Title")
+* [03-HardwareSupport](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/03-HardwareSupport.7z "Title")
+* [04-Process Concept](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/04-Process%20Concept.7z "Title")
+* [05-Thread & IPC](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/05-Thread%20%26%20IPC.7z "Title")
+* [06-Process Schedule](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/06-Process%20Schedule.7z "Title")
+* [07-Mutual Exclusion](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/07-Mutual%20Exclusion.7z "Title")
+* [08-Synchronization](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/08-Synchronization.7z "Title")
+* [09-Deadlock](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/09-Deadlock.7z "Title")
+* [10-Real Memory](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/10-Real%20Memory.7z "Title")
+* [11-Virtual Memory](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/11-Virtual%20Memory.7z "Title")
+* [12-IO](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/12-IO.7z "Title")
+* [13-File](https://github.com/ljw1006/Operating-System-2019/blob/master/Lecture%20Slides/13-File.7z "Title")
 
 
