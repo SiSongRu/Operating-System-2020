@@ -45,7 +45,7 @@
 * 如果百度云下载速度较慢可以使用学校睿客云网盘 [实验参考书](https://rec.ustc.edu.cn/share/d070e6c0-e14a-11ea-99de-5b44d5c03fbc) 密码：OS2020
 
 
-* 某14级大佬的实验报告示例（瑟瑟发抖)[链接](https://github.com/github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/Example-lab1-report.7z "Title")
+* 某14级大佬的实验报告示例（瑟瑟发抖)[链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/Example-lab1-report.7z)
 
 * 2019年9月17日实验内容讲解PPT[链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/实验.pptx "Title")
 
