@@ -100,4 +100,6 @@
 * [12-IO](https://github.com/SiSongRu/Operating-System-2020/blob/master/Lecture%20Slides/12-IO.7z "Title")
 * [13-File](https://github.com/SiSongRu/Operating-System-2020/blob/master/Lecture%20Slides/13-File.7z "Title")
 
+* 如果上述课件下载速度较慢，请使用该课件下载地址[睿客云链接](https://rec.ustc.edu.cn/share/aa6141c0-e154-11ea-8188-a9805caae7b4) 密码：OS2020
+
 
