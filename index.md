@@ -5,20 +5,22 @@
 
 #### 老师
 姓名：张驰 
-办公室：西区科技西楼903
+
+办公室：西区科技西楼 903
+
 邮箱：chizhang@ustc.edu.cn
 
 #### 助教
 姓名：李松蔚
-办公室：西区电四楼415
+办公室：西区电四楼 415
 邮箱：
 
 姓名：王庆涛
-办公室：西区科技西楼913
+办公室：西区科技西楼 913
 邮箱：
 
 姓名：茹思淞
-办公室：西区科技西楼915
+办公室：西区科技西楼 915
 邮箱：rusisong@mail.ustc.edu.cn
 
 
@@ -35,7 +37,7 @@
 * 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj
 * 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27
 * [某14级大佬的实验报告示例（瑟瑟发抖)](https://github.com/ljw1006/Operating-System-2019/blob/master/Experiments/Example-lab1-report.7z "Title")
-* 2019年9月17日实验内容讲解PPT[链接](https://github.com/ljw1006/Operating-System-2019/blob/master/Experiments/实验.pptx "Title")
+* 2019年9月17日实验内容讲解PPT[链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/实验.pptx "Title")
 
 * -------------我是分界线(*╹▽╹*)---------------------------------------------------------
 
