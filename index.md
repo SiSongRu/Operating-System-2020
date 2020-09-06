@@ -41,11 +41,11 @@
 
 * 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj 
 
-* 如果百度云下载速度较慢可以使用学校睿客云网盘 [虚拟机](https://rec.ustc.edu.cn/share/a81466b0-e14a-11ea-9165-754326c34647) 密码：OS2020
+    * 如果百度云下载速度较慢可以使用学校睿客云网盘 [虚拟机](https://rec.ustc.edu.cn/share/a81466b0-e14a-11ea-9165-754326c34647) 密码：OS2020
 
 * 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27 
 
-* 如果百度云下载速度较慢可以使用学校睿客云网盘 [实验参考书](https://rec.ustc.edu.cn/share/d070e6c0-e14a-11ea-99de-5b44d5c03fbc) 密码：OS2020
+   * 如果百度云下载速度较慢可以使用学校睿客云网盘 [实验参考书](https://rec.ustc.edu.cn/share/d070e6c0-e14a-11ea-99de-5b44d5c03fbc) 密码：OS2020
 
 
 * 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/Example-lab1-report.7z)
@@ -82,7 +82,7 @@
 
 * 各位同学可以通过百度网盘下载工具书，[下载链接]( https://pan.baidu.com/s/1WuxQQIzvXo_aaq_tMGuRPA "Title") 分享码：strv
 
-* 如果百度网盘的下载速度比较慢，也可以使用学校提供的睿客云 [下载链接](https://rec.ustc.edu.cn/share/8debc570-e14b-11ea-9feb-37ab00adf0f8) 密码：OS2020
+    * 如果百度网盘的下载速度比较慢，也可以使用学校提供的睿客云 [下载链接](https://rec.ustc.edu.cn/share/8debc570-e14b-11ea-9feb-37ab00adf0f8) 密码：OS2020
 
 
 
