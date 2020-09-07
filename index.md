@@ -13,7 +13,7 @@
 邮箱：chizhang@ustc.edu.cn
 
 #### 助教
-姓名：李松蔚 (主要负责实验部分)
+姓名：李松蔚 
 
 办公室：西区电四楼 415
 
@@ -42,10 +42,13 @@
 * 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj 
 
     * 如果百度云下载速度较慢可以使用学校睿客云网盘 [虚拟机](https://rec.ustc.edu.cn/share/a81466b0-e14a-11ea-9165-754326c34647) 密码：OS2020
+    
+    
 
 * 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27 
 
    * 如果百度云下载速度较慢可以使用学校睿客云网盘 [实验参考书](https://rec.ustc.edu.cn/share/d070e6c0-e14a-11ea-99de-5b44d5c03fbc) 密码：OS2020
+   
 
 
 * 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/Example-lab1-report.7z)
