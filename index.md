@@ -46,12 +46,14 @@
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
 * 虚拟机安装工具下载[链接](https://pan.baidu.com/s/1gRavuxQPG9IkbA9p9bjRHA "Title") 分享码：babj 
-    * 如果百度云下载速度较慢可以使用学校睿客云网盘 [虚拟机](https://rec.ustc.edu.cn/share/a81466b0-e14a-11ea-9165-754326c34647) 
+
+* 如果百度云下载速度较慢可以使用学校睿客云网盘 [虚拟机](https://rec.ustc.edu.cn/share/a81466b0-e14a-11ea-9165-754326c34647) 
     
     
 
 * 实验参考书百度云下载[链接](https://pan.baidu.com/s/1sYXX7bf7w_HFtVfU0nBxgg "Title") 分享码：9m27 
-   * 如果百度云下载速度较慢可以使用学校睿客云网盘 [实验参考书](https://rec.ustc.edu.cn/share/1e04a830-f10f-11ea-bd51-0946cf0407d9) 
+
+* 如果百度云下载速度较慢可以使用学校睿客云网盘 [实验参考书](https://rec.ustc.edu.cn/share/1e04a830-f10f-11ea-bd51-0946cf0407d9) 
    
 
 
