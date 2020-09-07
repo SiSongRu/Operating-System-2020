@@ -73,7 +73,7 @@
 
 ### 参考教学视频
 
-* 硬件知识与OS基础 [下载地址](https://rec.ustc.edu.cn/share/0806a9c0-f10c-11ea-9afd-a767aeed85f7)
+* 硬件知识与OS基础教学视频 [下载地址](https://rec.ustc.edu.cn/share/0806a9c0-f10c-11ea-9afd-a767aeed85f7)
 
 
 
