@@ -68,7 +68,7 @@
 ### 参考教学视频
 
 * 硬件知识与OS基础教学视频 [下载地址](https://rec.ustc.edu.cn/share/0806a9c0-f10c-11ea-9afd-a767aeed85f7)
-
+* Study Guides for this Course [下载地址](https://rec.ustc.edu.cn/share/680bd780-f652-11ea-8381-eb5a788f739e)(2020.9.14更新)
 
 
 
@@ -77,4 +77,4 @@
 
 为了保证课件的内容都是最新的，每节课的课件会在课前再放上去。
 
-* 01-Overview [睿客云](https://rec.ustc.edu.cn/share/ee63d890-f62b-11ea-ab13-9567955c787e) [坚果云](https://www.jianguoyun.com/p/DZdujK8Q2qngBxihm70D)
+* 01-Overview（2020.9.14） [睿客云](https://rec.ustc.edu.cn/share/ee63d890-f62b-11ea-ab13-9567955c787e) [坚果云](https://www.jianguoyun.com/p/DZdujK8Q2qngBxihm70D)
