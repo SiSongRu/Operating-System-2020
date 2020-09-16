@@ -49,7 +49,7 @@
 
 * 实验参考书下载 [实验参考书](https://rec.ustc.edu.cn/share/1e04a830-f10f-11ea-bd51-0946cf0407d9) 
 
-* 某14级大佬的实验报告示例[链接](https://rec.ustc.edu.cn/share/d85e4760-f807-11ea-a05a-03fe566e9296)
+* 某14级大佬的实验报告示例 [链接](https://rec.ustc.edu.cn/share/d85e4760-f807-11ea-a05a-03fe566e9296)
 
 * 2019年9月17日实验内容讲解PPT [链接](https://rec.ustc.edu.cn/share/2c42af40-f808-11ea-9f81-65e2d9a7bd0a)
 
