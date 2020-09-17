@@ -79,3 +79,5 @@
 为了保证课件的内容都是最新的，每节课的课件会在课前再放上去。
 
 * 01-Overview（2020.9.14） [睿客云](https://rec.ustc.edu.cn/share/ee63d890-f62b-11ea-ab13-9567955c787e) [坚果云](https://www.jianguoyun.com/p/DZdujK8Q2qngBxihm70D)
+
+* 02-OS Intro (2020.9.17) [睿客云](https://rec.ustc.edu.cn/share/5fc307f0-f888-11ea-9368-872fc20c8a68) [坚果云](https://www.jianguoyun.com/p/DSNyPgcQ7YrdCBjvnr4D)
