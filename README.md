@@ -51,7 +51,7 @@
 
 * 某14级大佬的实验报告示例（瑟瑟发抖) [链接](https://github.com/SiSongRu/Operating-System-2020/blob/master/Experiments/Example-lab1-report.7z)
 
-<!--* 实验内容讲解PPT [链接](https://rec.ustc.edu.cn/share/d89f5620-fe61-11ea-ba64-c55655d79c23)-->
+<!--* 20200927实验内容讲解PPT [链接](https://rec.ustc.edu.cn/share/d89f5620-fe61-11ea-ba64-c55655d79c23)-->
 
 ### 实验教学视频
 
