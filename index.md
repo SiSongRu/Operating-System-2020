@@ -69,7 +69,7 @@
 
 * 硬件知识与OS基础教学视频 [下载地址](https://rec.ustc.edu.cn/share/0806a9c0-f10c-11ea-9afd-a767aeed85f7)
 
-* Study Guides for this Course [下载地址](https://rec.ustc.edu.cn/share/680bd780-f652-11ea-8381-eb5a788f739e)(2020.9.14更新)
+<!--* Study Guides for this Course [下载地址](https://rec.ustc.edu.cn/share/680bd780-f652-11ea-8381-eb5a788f739e)(2020.9.14更新)-->
 
 
 
