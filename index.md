@@ -53,6 +53,17 @@
 
 * 20200928实验内容讲解PPT [链接](https://rec.ustc.edu.cn/share/d89f5620-fe61-11ea-ba64-c55655d79c23)
 
+### 实验布置
+OS2020实验布置：
+
+Lab2 物理内存管理
+Lab4 内核线程管理
+Lab6 调度器
+Lab8 文件系统
+
+共四个实验。Lab2,4需要在11月15日24点前提交，Lab6,8需要在12月27日24点前提交。
+提交方式为将实验报告打包为 “学号+姓名.rar(或zip等)” 发送到邮箱 ustcoslab2020@163.com
+
 ### 实验教学视频
 
 * 第一次实验教学视频：[第一部分](https://www.bilibili.com/video/av32411771/?p=1 "Title") [第二部分](https://www.bilibili.com/video/av32411771/?p=2 "Title") [第三部分](https://www.bilibili.com/video/av32411771/?p=3 "Title")
