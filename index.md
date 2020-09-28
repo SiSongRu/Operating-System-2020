@@ -51,7 +51,7 @@
 
 * 某14级大佬的实验报告示例 [链接](https://rec.ustc.edu.cn/share/d85e4760-f807-11ea-a05a-03fe566e9296)
 
-<--!* 20200928实验内容讲解PPT [链接](https://rec.ustc.edu.cn/share/d89f5620-fe61-11ea-ba64-c55655d79c23)-->
+<!-- * 20200928实验内容讲解PPT [链接](https://rec.ustc.edu.cn/share/d89f5620-fe61-11ea-ba64-c55655d79c23)-->
 
 ### 实验教学视频
 
