@@ -96,3 +96,7 @@ Lab8 文件系统
 * 01-Overview（2020.9.14） [睿客云](https://rec.ustc.edu.cn/share/ee63d890-f62b-11ea-ab13-9567955c787e) [坚果云](https://www.jianguoyun.com/p/DZdujK8Q2qngBxihm70D)
 
 * 02-OS Intro (2020.9.17) [睿客云](https://rec.ustc.edu.cn/share/5fc307f0-f888-11ea-9368-872fc20c8a68)
+
+* 03-Hardware Support (2020.10.12) [睿客云](https://rec.ustc.edu.cn/share/ace74710-0c49-11eb-a4bb-9f0f57e5535b)
+
+* 04-Process Concept (2020.10.12) [睿客云](https://rec.ustc.edu.cn/share/b9678390-0c49-11eb-a7c7-d5067698400e)
