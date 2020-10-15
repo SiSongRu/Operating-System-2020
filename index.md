@@ -100,3 +100,5 @@ Lab8 文件系统
 * 03-Hardware Support (2020.10.12) [睿客云](https://rec.ustc.edu.cn/share/ace74710-0c49-11eb-a4bb-9f0f57e5535b)
 
 * 04-Process Concept (2020.10.12) [睿客云](https://rec.ustc.edu.cn/share/b9678390-0c49-11eb-a7c7-d5067698400e)
+
+* 05-05-Thread & IPC (2020.10.15) [睿客云](https://rec.ustc.edu.cn/share/1ac7e5b0-0ea3-11eb-bccd-354234964e2e)
