@@ -43,6 +43,13 @@
 
 作业的答案会在作业批改完毕之后在主页上实时更新。
 
+* 02-OS Intro (2020.10.19) [睿客云](https://rec.ustc.edu.cn/share/6ed6c730-11ff-11eb-909b-b1abf2fc8786)
+
+* 03-Hardware Support (2020.10.19) [睿客云](https://rec.ustc.edu.cn/share/8b6a4890-11ff-11eb-8364-e7002672d767)
+
+* 04-Process Concept (2020.10.19) [睿客云](https://rec.ustc.edu.cn/share/a35dbdc0-11ff-11eb-9364-db6b8119d8b6)
+
+
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
 * 虚拟机安装工具下载 [虚拟机](https://rec.ustc.edu.cn/share/a81466b0-e14a-11ea-9165-754326c34647) 
@@ -54,6 +61,7 @@
 * 20200928实验内容讲解PPT [链接](https://rec.ustc.edu.cn/share/d89f5620-fe61-11ea-ba64-c55655d79c23)
 
 ### 实验布置
+
 OS2020实验布置：
 
 Lab2 物理内存管理
@@ -84,7 +92,7 @@ Lab8 文件系统
 
 * 硬件知识与OS基础教学视频 [下载地址](https://rec.ustc.edu.cn/share/0806a9c0-f10c-11ea-9afd-a767aeed85f7)
 
-<!--* Study Guides for this Course [下载地址](https://rec.ustc.edu.cn/share/680bd780-f652-11ea-8381-eb5a788f739e)(2020.9.14更新)-->
+* Study Guides for this Course [下载地址](https://rec.ustc.edu.cn/share/680bd780-f652-11ea-8381-eb5a788f739e)(2020.9.14更新)
 
 
 
