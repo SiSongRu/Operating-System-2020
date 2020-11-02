@@ -114,3 +114,5 @@ Lab8 文件系统
 * 06-Process Schedule (2020.10.19) [睿客云](https://rec.ustc.edu.cn/share/b0c520a0-11d1-11eb-94e9-89fb073fb0a3)
 
 * 07-Mutual Exclusion (2020.10.29) [睿客云](https://rec.ustc.edu.cn/share/82efbc60-19a2-11eb-9ec4-ad8927e559de)
+
+* 08-Synchronization (2020.11.02) [睿客云](https://rec.ustc.edu.cn/share/889fc3e0-1cd2-11eb-85bb-fbe0a7c392d2)
