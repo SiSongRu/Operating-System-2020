@@ -49,6 +49,14 @@
 
 * 04-Process Concept (2020.10.19) [睿客云](https://rec.ustc.edu.cn/share/a35dbdc0-11ff-11eb-9364-db6b8119d8b6)
 
+* 05-Thread & IPC (2020.11.13) [睿客云]()
+
+* 06-Process Schedule (2020.11.13) [睿客云]()
+
+* 08-Synchronization (2020.11.13) [睿客云]()
+
+* 09-Deadlock (2020.11.13) [睿客云]()
+
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
