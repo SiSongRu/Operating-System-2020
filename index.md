@@ -126,3 +126,5 @@ Lab8 文件系统
 * 08-Synchronization (2020.11.02) [睿客云](https://rec.ustc.edu.cn/share/889fc3e0-1cd2-11eb-85bb-fbe0a7c392d2)
 
 * 09-Deadlock (2020.11.05) [睿客云](https://rec.ustc.edu.cn/share/cd896120-1f1a-11eb-a687-a3825bf6cf5f)
+
+* 10-Real Memory (2020.11.12) [睿客云](https://rec.ustc.edu.cn/share/2fbf1450-24a3-11eb-91a4-71a28de216f)
