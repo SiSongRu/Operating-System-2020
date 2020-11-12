@@ -49,13 +49,13 @@
 
 * 04-Process Concept (2020.10.19) [睿客云](https://rec.ustc.edu.cn/share/a35dbdc0-11ff-11eb-9364-db6b8119d8b6)
 
-* 05-Thread & IPC (2020.11.13) [睿客云]()
+* 05-Thread & IPC (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/0cc97b10-24eb-11eb-9c6c-1de7d688a8b7)
 
-* 06-Process Schedule (2020.11.13) [睿客云]()
+* 06-Process Schedule (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/e8479560-24ea-11eb-bf1c-2920a8bfa579)
 
-* 08-Synchronization (2020.11.13) [睿客云]()
+* 08-Synchronization (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/1b50af60-24eb-11eb-94a5-651c06850209)
 
-* 09-Deadlock (2020.11.13) [睿客云]()
+* 09-Deadlock (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/25b5dcc0-24eb-11eb-97f9-c317af655381)
 
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
