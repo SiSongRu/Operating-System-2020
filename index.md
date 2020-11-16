@@ -51,7 +51,7 @@
 
 * 05-Thread & IPC (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/0cc97b10-24eb-11eb-9c6c-1de7d688a8b7)
 
-* 06-Process Schedule (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/e8479560-24ea-11eb-bf1c-2920a8bfa579)
+* 06-Process Schedule (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/7bee8b60-27d0-11eb-ab3c-6d381d3d84e7)
 
 * 08-Synchronization (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/513892d0-24ed-11eb-a4b5-1bc5fc744a51)
 
