@@ -129,3 +129,5 @@ Lab8 文件系统
 
 * 10-Real Memory (2020.11.12) [睿客云](https://rec.ustc.edu.cn/share/ac90f3d0-24a3-11eb-9640-816016fcc20e)
 
+* 11-Virtual Memory (2020.11.30) [睿客云](https://rec.ustc.edu.cn/share/428b5560-32dd-11eb-8a09-ed609c9926b7)
+
