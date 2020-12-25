@@ -57,6 +57,10 @@
 
 * 09-Deadlock (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/25b5dcc0-24eb-11eb-97f9-c317af655381)
 
+* 10-Real Memory (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/d5c8d700-4670-11eb-a52e-678434224cad)
+
+* 11-Virtual Memory (2020.11.13) [睿客云](https://rec.ustc.edu.cn/share/ca189a30-4670-11eb-91b8-7fbf5ed84e99)
+
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
