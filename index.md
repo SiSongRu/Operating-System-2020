@@ -61,6 +61,10 @@
 
 * 11-Virtual Memory (2020.12.25) [睿客云](https://rec.ustc.edu.cn/share/ca189a30-4670-11eb-91b8-7fbf5ed84e99)
 
+* 12-IO (2021.1.4) [睿客云](https://rec.ustc.edu.cn/share/62186090-4e3f-11eb-9c7c-09b590124274)
+
+* 13-File (2021.1.4) [睿客云](https://rec.ustc.edu.cn/share/6dc8a340-4e3f-11eb-86ba-3356a52a6d5f)
+
 
 ### 实验内容Ｏ(≧▽≦)Ｏ
 
